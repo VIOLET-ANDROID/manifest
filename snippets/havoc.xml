@@ -5,15 +5,11 @@
            fetch=".." />
 
   <remote  name="havoc"
-           fetch="ssh://git@github.com/Havoc-OS"
+           fetch="https://github.com/Havoc-OS"
            revision="eleven" />
 
   <remote  name="havoc-devices"
-           fetch="ssh://git@github.com/Havoc-Devices"
-           revision="eleven" />
-
-  <remote name="shady"
-           fetch="ssh://git@github.com/SKULSHADY"
+           fetch="https://github.com/Havoc-Devices"
            revision="eleven" />
 
   <remote  name="havoc-gitlab"
